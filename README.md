@@ -1,1 +1,2 @@
-# unsupervised-learning-capstone-project
+# UL Capstone - Twitter Text Clustering
+Twitter captures what's happening in the world and what people are talking about. Around 500 million tweets are sent each day, meaning 6000 a second. In this project, I focus on the conversations being had about George Floyd, the 46-year-old black man who died in Minneapolis, Minnesota, after police officer Derek Chauvin knelt on his neck for almost nine minutes. I attempt to cluster these conversations to get a better understand of what people around the country and the globe are saying about this event.
